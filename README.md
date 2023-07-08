@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freelancernizamc" alt="freelancernizamc" /></a> </p>
 
-- 🔭 My Institution **Freedom It Institution**
+- 🔭 My Institution **Programming Hero**
 
 - 👨‍💻 All of my projects are available at [https://dev-contestdev.pantheonsite.io/](https://dev-contestdev.pantheonsite.io/)
 
