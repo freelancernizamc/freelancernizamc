@@ -7,7 +7,7 @@
 
 - 🔭 My Institution **Programming Hero**
 
-- 👨‍💻 All of my projects are available at [https://dev-contestdev.pantheonsite.io/](https://dev-contestdev.pantheonsite.io/)
+- 👨‍💻 All of my projects are available at [https://nizamsportfolio.wordpress.com/](https://nizamsportfolio.wordpress.com/)
 
 - 📝 I regularly write articles on [https://www.nizam2020.com/](https://www.nizam2020.com/)
 
